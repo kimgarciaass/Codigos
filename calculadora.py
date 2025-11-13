@@ -1,0 +1,15 @@
+import pyautogui
+import time
+print("Vamos calcular")
+calculadora=(input("Digite um Nº:"))
+calculadora2=(input("Digite a operação:"))
+calculadora3=(input("Digite o segundo Nº:"))
+time.sleep(1)
+pyautogui.press("win")
+pyautogui.write("calculadora")
+pyautogui.press("enter")
+time.sleep(2)
+pyautogui.write(calculadora)
+pyautogui.write(calculadora2)
+pyautogui.write(calculadora3)
+pyautogui.press("enter")
