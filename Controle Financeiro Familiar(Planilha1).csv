@@ -1,0 +1,14 @@
+ Orçamento Pessoal ;;
+Tipo (Receita/Despesa);Descrição;Valor (R$)
+Receita;Salário;R$ 3.000,00
+Receita;Presente Recebido;R$ 150,00
+Despesa;Supermercado;R$ 420,00
+Despesa;Conta de Luz;R$ 180,00
+Despesa;Internet;R$ 100,00
+Despesa;Transporte;R$ 150,00
+Despesa;Compra de Roupas;R$ 200,00
+Despesa;Conta de Água;R$ 80,00
+;;
+Total de Receitas;;R$ 3.150,00
+Total de Despesas;;R$ 1.130,00
+ Saldo Final ;;R$ 2.020,00
